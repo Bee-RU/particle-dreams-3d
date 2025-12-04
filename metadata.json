@@ -1,0 +1,5 @@
+{
+  "name": "Particle Dreams 3D",
+  "description": "An interactive 3D particle system that transforms mathematical concepts into dynamic visual art using Three.js and React.",
+  "requestFramePermissions": []
+}
